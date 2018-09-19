@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10,047.493 s <<< FAILURE! - in TestSuite
+upload(com.Sikuli.test.Download)  Time elapsed: 10,020.043 s  <<< FAILURE!
+org.sikuli.script.FindFailed: C:/Users/anand.mohan.patel/workspace2/com.Sikuli.test/Screenshot/filedownload.PNG not loaded
+	at com.Sikuli.test.Download.upload(Download.java:23)
+
